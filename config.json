@@ -1,7 +1,7 @@
 {
     "cache": "memory",
     "cacheConfig": {
-        "cacheDurationMinutes": 120,
+        "cacheDurationMinutes": 10,
         "cacheMaxEntries": 50
     }
 }
